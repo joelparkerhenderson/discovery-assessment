@@ -1,22 +1,25 @@
 # Discovery assessment
 
-Discovery assessment tools that help business project managment.
+Discovery assessment tools that can help project managment.
 
-Purpose:
+Purpose-related:
 * <a href="#sbs">Strategic Balanced Scorecard (SBS)</a>
 * <a href="#okr">Objectives &amp; Key Results (OKRs)</a>
 * <a href="#kpi">Key Performance Indicators (KPIs)</a>
+* <a href="#csf">Critical Success Factors (CSFs)</a>
 * <a href="#smart">SMART criteria for goals</a>
 
-People:
-* <a href="#stakeholder">Stakeholder analysis</a>
+People-related:
+* <a href="#stakeholder-analysis">Stakeholder analysis</a>
+* <a href="#stakeholder-salience">Stakeholder salience</a></h2>
 * <a href="#racio">RACIO responsibility assigment matrix</a>
 * <a href="#adkar">ADKAR change management model</a>
-* <a name="#team">TEAM interpersonal aims</a>
-* <a name="#focus">FOCUS analytical aims</a>
+* <a href="#team">TEAM interpersonal aims</a>
+* <a href="#focus">FOCUS analytical aims</a>
 
-Process:
+Process-related:
 * <a href="#togaf">TOGAF management</a>
+* <a href="#application-architecture-matrix">Application architecture matrix</a>
 * <a href="#ddd">Domain Driven Design (DDD)</a>
 * <a href="#dmadv">DMADV &amp; Design For Six Sigma</a>
 * <a href="#dmaic">DMAIC</a>
@@ -24,9 +27,10 @@ Process:
 * <a href="#sipoc">SIPOC</a>
 * <a href="#icom">ICOM</a></h2>
 
-Performance:
+Performance-related:
 * <a href="#maturity-models">Maturity models</a>
 * <a href="#vsm">Value stream mapping (VSM)</a>
+* <a href="#software-quality-attributes">Software quality attributes</a>
 * <a href="#pert">Program Evaluation and Review Technique (PERT)</a>
 * <a href="#raid">RAID</a>
 
@@ -40,9 +44,9 @@ See also:
 
 <h3><a name="sbs">Strategic Balanced Scorecard (SBS)</a></h3>
 
-Strategic Balanced Scorecard:
+Strategic Balanced Scorecard is a high level way to summarize an organization:
 
-* Create a a destination Statement.
+* Create a a destination statement.
 * Cover four areas: financial, internal, external, learning.
 * Define Objectives and Key Results (OKRs).
 * Define Key Performance Indicators (KPIs) and measure them.
@@ -76,6 +80,16 @@ Key Performance Indicator (KPI) suggestions:
 See https://github.com/joelparkerhenderson/key_performance_indicator
 
 
+<h3><a name="csf">Critical Success Factors (CSFs)</a></h3>
+
+Critical Success Factor (CSF) suggestions:
+
+* Title: an exact name that avoids ambiguity
+* Objective: the relation of the indicator with the organizational objectives must be clear
+* Criticality: why is this critical to the success of the objective?
+* Plan: who is doing what, when, where, how?
+
+
 <h3><a name="smart">SMART criteria</a></h2>
 
 SMART criteria for goals:
@@ -105,28 +119,49 @@ RACIO responsibility assigment matrix:
 See https://github.com/joelparkerhenderson/racio_matrix
 
 
-<h3><a name="stakeholder">Stakeholder analysis</a></h2>
+<h3><a name="stakeholder-analysis">Stakeholder analysis</a></h2>
 
-Stakeholder analysis:
+Stakeholder analysis starts by gathering this information:
 
 * Name 
 * Title
 * Contact information
+* Communication preferences
 * Role in the organization
 * Role on the project
-* Estimate level of involvement
-* Communication preferences
-* Key performance indicators
-* Key objectives business requirements
-* Key concerns
-* Any cultural factors
-* Any candidates for experiments, tests, boundaries, etc.
-* Any relevant SBSs, OKRs, KPIs, VSMs, SMARTs, etc.
+* Key concerns (e.g. goals, needs, issues, interests, opinions)
+* Key offerings (e.g. skills, resources, controls, connections)
+* Relevant suggestions (e.g. for people, processes, tools, scopes)
+* Relevant relationships (e.g. with stakeholders, projects, organizaitons)
+* Relevant analysis (e.g. <a href="https://github.com/joelparkerhenderson/strategic_business_scorecard">SBS</a>, <a href="https://github.com/joelparkerhenderson/objectives_and_key_results">OKR</a>, <a href="https://github.com/joelparkerhenderson/key_performance_indicator">KPI</a>, <a href="https://github.com/joelparkerhenderson/value_stream_mapping">VSM</a>, <a href="https://github.com/joelparkerhenderson/smart_criteria">SMART</a>, SWOT, PEST, RAID)
+
+See https://github.com/joelparkerhenderson/stakeholder_analysis
+
+
+<h3><a name="stakeholder-salience">Stakeholder salience</a></h3>
+
+Stakeholder salience means understanding the relative priorities of needs
+
+To do this, one way is to estimate any of the concepts below, on a scale of low, medium, high:
+
+* Power
+* Interest
+* Commitment
+* Support
+* Influence
+* Need
+* Urgency
+* Understanding
+* Legitimacy
+* Willingness to engage
+* Necessity of involvement
+
+See https://github.com/joelparkerhenderson/stakeholder_analysis
 
 
 <h3><a name="adkar">ADKAR change management model</a></h2>
 
-ADKAR change management model:
+ADKAR change management model means:
 
 * Awareness
 * Desire
@@ -139,7 +174,7 @@ See https://github.com/joelparkerhenderson/adkar_change_management
 
 <h3><a name="team">TEAM interpersonal aims</a></h3>
 
-TEAM interpersonal aims:
+TEAM interpersonal aims means:
 
 * Talk
 * Evaluate
@@ -151,7 +186,7 @@ See https://github.com/joelparkerhenderson/team_focus
 
 <h3><a name="focus">FOCUS analytical aims</a></h3>
 
-FOCUS analytical aims:
+FOCUS analytical aims means:
 
 * Frame
 * Organize
@@ -167,7 +202,7 @@ See https://github.com/joelparkerhenderson/team_focus
 
 <h3><a name="togaf">TOGAF management</a></h2>
 
-TOGAF management capabilities:
+TOGAF management capabilities list:
 
 * Financial Management
 * Performance Management
@@ -183,7 +218,7 @@ TOGAF management capabilities:
 
 <h3><a name="ddd">Domain Driven Design</a></h2>
 
-Domain Driven Design:
+Domain Driven Design links:
 
 * [Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html)
 * [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
@@ -202,7 +237,7 @@ DMADV project methodology is known as Design For Six Sigma (DFSS) and features 5
 
 <h3><a name="dmaic">DMAIC</a></h2>
 
-DMAIC:
+DMAIC stands for:
 
 * Define
 * Measure
@@ -213,7 +248,7 @@ DMAIC:
 
 <h3><a name="ddica">DDICA</a></h2>
 
-DDICA:
+DDICA stands for:
 
 * Design
 * Develop
@@ -224,7 +259,7 @@ DDICA:
 
 <h3><a name="sipoc">SIPOC</a></h2>
 
-SIPOC:
+SIPOC stands for:
 
 * Supplier
 * Input
@@ -235,7 +270,7 @@ SIPOC:
 
 <h3><a name="icom">ICOM</a></h2>
 
-ICOM:
+ICOM stands for:
 
 * Inputs
 * Cntrols
@@ -248,7 +283,7 @@ ICOM:
 
 <h3><a name="maturity-models">Maturity models</a></h2>
 
-Maturity model levels:
+Maturity models typically have these kinds of levels:
 
 * 0 = None, Never, Negligible, Not Applicable
 * 1 = Initial, Informal, Implicit, Irregular, Inconsistent, Individual-usage.
@@ -262,7 +297,7 @@ See https://github.com/joelparkerhenderson/maturity_models
 
 <h3><a name="vsm">Value stream mapping (VSM)</a></h2>
 
-Value Stream Mapping (VSM):
+Value Stream Mapping (VSM) starts with three major categories:
 
 * Value Adding (VA): any activity that your external customers value and are willing to pay for.
 * Necessary Non-Value Adding (N-NVA): any activity that is necessary but does not add value, for example any necessary support processes, legal regulatory requirements, etc.
@@ -271,9 +306,14 @@ Value Stream Mapping (VSM):
 See https://github.com/joelparkerhenderson/value_stream_mapping
 
 
+<h3><a name="software-quality-attributes">Software quality attributes</a></h3>
+
+Software quality attributes:
+
+
 <h3><a name="pert">PERT: Program Evaluation and Review Technique</a></h2>
 
-Program Evaluation and Review Technique (PERT):
+Program Evaluation and Review Technique (PERT) has four major timing areas:
 
 * critical path
 * lead time
@@ -283,12 +323,22 @@ Program Evaluation and Review Technique (PERT):
 
 <h3><a name="raid">RAID</a></h2>
 
-RAID: 
+RAID means:
 
 * Risks
 * Assumptions
 * Issues
 * Dependencies
+
+
+<h3><a name="application-architecture-matrix">Application architecture matrix</a></h2>
+
+Application architecture matrix ideas to consider:
+
+* Application/Organization matrix
+* Application/Role matrix
+* Application/Application Interaction matrix
+* Application/Function matrix
 
 
 <h2>See also</h2>
@@ -329,5 +379,3 @@ The exercise idea: assess the current state of the organizations/groups/individu
 * [DMAIC](https://en.wikipedia.org/wiki/DMAIC): Define, Measure, Analyze, Improve, Control
 * [RAID](https://en.wikipedia.org/wiki/RAID): Risks, Assumptions, Issues, Dependencies
 * [TOGAF](https://en.wikipedia.org/wiki/TOGAF): The Open Group Architecture Forum
-
-
