@@ -11,88 +11,60 @@
 
 Discovery assessment tools that can help project managment.
 
-Purpose-related:
+Contents:
 
-* <a href="#sbs">Strategic Balanced Scorecard (SBS)</a>
-
-* <a href="#okr">Objectives &amp; Key Results (OKRs)</a>
-
-* <a href="#kpi">Key Performance Indicators (KPIs)</a>
-
-* <a href="#csf">Critical Success Factors (CSFs)</a>
-
-* <a href="#smart">SMART criteria for goals</a>
-
-People-related:
-
-* <a href="#stakeholder-analysis">Stakeholder analysis</a>
-
-* <a href="#stakeholder-salience">Stakeholder salience</a></h2>
-
-* <a href="#racio">RACIO responsibility assigment matrix</a>
-
-* <a href="#adkar">ADKAR change management model</a>
-
-* <a href="#team">TEAM interpersonal aims</a>
-
-* <a href="#focus">FOCUS analytical aims</a>
-
-Process-related:
-
-* <a href="#togaf">TOGAF management</a>
-
-* <a href="#application-architecture-matrix">Application architecture matrix</a>
-
-* <a href="#ddd">Domain Driven Design (DDD)</a>
-
-* <a href="#dmadv">DMADV &amp; Design For Six Sigma</a>
-
-* <a href="#dmaic">DMAIC</a>
-
-* <a href="#ddica">DDICA</a>
-
-* <a href="#sipoc">SIPOC</a>
-
-* <a href="#icom">ICOM</a></h2>
-
-Performance-related:
-
-* <a href="#maturity-models">Maturity models</a>
-
-* <a href="#vsm">Value stream mapping (VSM)</a>
-
-* <a href="#software-quality-attributes">Software quality attributes</a>
-
-* <a href="#pert">Program Evaluation and Review Technique (PERT)</a>
-
-* <a href="#raid">RAID</a>
-
-See also:
-
-* <a href="#current-future">Current state vs. future state</a>
-
-* <a href="#wordbook">Wordbook of terminology</a>
+* [Purpose](#purpose)
+  * [Strategic balanced scorecard (SBS)](#strategic-balanced-scorecard-sbs)
+  * [Objectives &amp; key results (OKRs)](#objectives-amp-key-results-okrs)
+  * [Key performance indicator (KPI)](#key-performance-indicator-kpi)
+  * [Critical success factor (CSF)](#critical-success-factor-csf)
+  * [SMART criteria](#smart-criteria)
+* [People](#people)
+  * [RACIO responsibility assigment matrix](#racio-responsibility-assigment-matrix)
+  * [Stakeholder analysis](#stakeholder-analysis)
+  * [Stakeholder salience](#stakeholder-salience)
+  * [ADKAR change management model](#adkar-change-management-model)
+  * [TEAM interpersonal aims](#team-interpersonal-aims)
+  * [FOCUS analytical aims](#focus-analytical-aims)
+* [Process](#process)
+  * [TOGAF management</a>](#togaf-management-a)
+  * [Domain Driven Design</a>](#domain-driven-design-a)
+  * [DMADV Design For Six Sigma</a>](#dmadv-design-for-six-sigma-a)
+  * [DMAIC</a>](#dmaic-a)
+  * [DDICA</a>](#ddica-a)
+  * [SIPOC</a>](#sipoc-a)
+  * [ICOM</a>](#icom-a)
+* [Performance](#performance)
+  * [Maturity models</a>](#maturity-models-a)
+  * [Value stream mapping (VSM)</a>](#value-stream-mapping-vsm-a)
+  * [Software quality attributes](#software-quality-attributes)
+  * [PERT: Program Evaluation and Review Technique</a>](#pert-program-evaluation-and-review-technique-a)
+  * [RAID</a>](#raid-a)
+  * [Application architecture matrix</a>](#application-architecture-matrix-a)
+* [See also](#see-also)
+  * [Current state vs. future state](#current-state-vs-future-state)
+  * [Wordbook of terminology](#wordbook-of-terminology)
 
 
-<h2>Purpose</h2>
+## Purpose
 
 
-<h3><a name="sbs">Strategic Balanced Scorecard (SBS)</a></h3>
+### Strategic balanced scorecard (SBS)
 
-Strategic Balanced Scorecard is a high level way to summarize an organization:
+Strategic balanced scorecards are a high-level way to summarize an organization:
 
 * Create a a destination statement.
 
 * Cover four areas: financial, internal, external, learning.
 
-* Define Objectives and Key Results (OKRs).
+* Define objectives and key results (OKRs).
 
-* Define Key Performance Indicators (KPIs) and measure them.
+* Define key performance indicators (KPIss) and measure them.
 
 See https://github.com/joelparkerhenderson/strategic_balanced_scorecard
 
 
-<h3><a name="okr">Objectives &amp; Key Results (OKRs)</a></h3>
+### Objectives &amp; key results (OKRs)
 
 
 OKR is a method of defining objectives and tracking their outcomes:
@@ -104,9 +76,9 @@ OKR is a method of defining objectives and tracking their outcomes:
 See https://github.com/joelparkerhenderson/objectives_and_key_results
 
 
-<h3><a name="kpi">Key Performance Indicators (KPIs)</a></h3>
+### Key performance indicator (KPI)
 
-Key Performance Indicator (KPI) suggestions:
+Key performance indicator (KPI) suggestions:
 
 * Title: an exact name that avoids ambiguity
 
@@ -125,9 +97,9 @@ Key Performance Indicator (KPI) suggestions:
 See https://github.com/joelparkerhenderson/key_performance_indicator
 
 
-<h3><a name="csf">Critical Success Factors (CSFs)</a></h3>
+### Critical success factor (CSF)
 
-Critical Success Factor (CSF) suggestions:
+Critical success factor (CSF) suggestions:
 
 * Title: an exact name that avoids ambiguity
 
@@ -138,7 +110,7 @@ Critical Success Factor (CSF) suggestions:
 * Plan: who is doing what, when, where, how?
 
 
-<h3><a name="smart">SMART criteria</a></h2>
+### SMART criteria
 
 SMART criteria for goals:
 
@@ -155,10 +127,10 @@ SMART criteria for goals:
 See https://github.com/joelparkerhenderson/smart_criteria
 
 
-<h2>People</h2>
+## People
 
 
-<h3><a name="racio">RACIO responsibility assigment matrix</a></h2>
+### RACIO responsibility assigment matrix
 
 RACIO responsibility assigment matrix:
 
@@ -175,7 +147,7 @@ RACIO responsibility assigment matrix:
 See https://github.com/joelparkerhenderson/racio_matrix
 
 
-<h3><a name="stakeholder-analysis">Stakeholder analysis</a></h2>
+### Stakeholder analysis
 
 Stakeholder analysis starts by gathering this information:
 
@@ -204,7 +176,7 @@ Stakeholder analysis starts by gathering this information:
 See https://github.com/joelparkerhenderson/stakeholder_analysis
 
 
-<h3><a name="stakeholder-salience">Stakeholder salience</a></h3>
+### Stakeholder salience
 
 Stakeholder salience means understanding the relative priorities of needs
 
@@ -235,7 +207,7 @@ To do this, one way is to estimate any of the concepts below, on a scale of low,
 See https://github.com/joelparkerhenderson/stakeholder_analysis
 
 
-<h3><a name="adkar">ADKAR change management model</a></h2>
+### ADKAR change management model
 
 ADKAR change management model means:
 
@@ -252,7 +224,7 @@ ADKAR change management model means:
 See https://github.com/joelparkerhenderson/adkar_change_management
 
 
-<h3><a name="team">TEAM interpersonal aims</a></h3>
+### TEAM interpersonal aims
 
 TEAM interpersonal aims means:
 
@@ -267,7 +239,7 @@ TEAM interpersonal aims means:
 See https://github.com/joelparkerhenderson/team_focus
 
 
-<h3><a name="focus">FOCUS analytical aims</a></h3>
+### FOCUS analytical aims
 
 FOCUS analytical aims means:
 
@@ -284,10 +256,10 @@ FOCUS analytical aims means:
 See https://github.com/joelparkerhenderson/team_focus
 
 
-<h2>Process</h2>
+## Process
 
 
-<h3><a name="togaf">TOGAF management</a></h2>
+### TOGAF management</a>
 
 TOGAF management capabilities list:
 
@@ -312,7 +284,7 @@ TOGAF management capabilities list:
 * Environment Management
 
 
-<h3><a name="ddd">Domain Driven Design</a></h2>
+### Domain Driven Design</a>
 
 Domain Driven Design links:
 
@@ -321,7 +293,7 @@ Domain Driven Design links:
 * [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
 
 
-<h3><a name="dmadv">DMADV Design For Six Sigma</a></h2>
+### DMADV Design For Six Sigma</a>
 
 DMADV project methodology is known as Design For Six Sigma (DFSS) and features 5 phases:
 
@@ -336,7 +308,7 @@ DMADV project methodology is known as Design For Six Sigma (DFSS) and features 5
 * Verify the design, set up pilot runs, implement the production process and hand it over to the process owner(s).
 
 
-<h3><a name="dmaic">DMAIC</a></h2>
+### DMAIC</a>
 
 DMAIC stands for:
 
@@ -352,7 +324,7 @@ DMAIC stands for:
 * Control
 
 
-<h3><a name="ddica">DDICA</a></h2>
+### DDICA</a>
 
 DDICA stands for:
 
@@ -367,7 +339,7 @@ DDICA stands for:
 * Allocate
 
 
-<h3><a name="sipoc">SIPOC</a></h2>
+### SIPOC</a>
 
 SIPOC stands for:
 
@@ -382,7 +354,7 @@ SIPOC stands for:
 * Customer
 
 
-<h3><a name="icom">ICOM</a></h2>
+### ICOM</a>
 
 ICOM stands for:
 
@@ -395,10 +367,10 @@ ICOM stands for:
 * Mechanisms
 
 
-<h2>Performance</h2>
+## Performance
 
 
-<h3><a name="maturity-models">Maturity models</a></h2>
+### Maturity models</a>
 
 Maturity models typically have these kinds of levels:
 
@@ -417,7 +389,7 @@ Maturity models typically have these kinds of levels:
 See https://github.com/joelparkerhenderson/maturity_models
 
 
-<h3><a name="vsm">Value stream mapping (VSM)</a></h2>
+### Value stream mapping (VSM)</a>
 
 Value Stream Mapping (VSM) starts with three major categories:
 
@@ -430,12 +402,12 @@ Value Stream Mapping (VSM) starts with three major categories:
 See https://github.com/joelparkerhenderson/value_stream_mapping
 
 
-<h3><a name="software-quality-attributes">Software quality attributes</a></h3>
+### Software quality attributes
 
 Software quality attributes:
 
 
-<h3><a name="pert">PERT: Program Evaluation and Review Technique</a></h2>
+### PERT: Program Evaluation and Review Technique</a>
 
 Program Evaluation and Review Technique (PERT) has four major timing areas:
 
@@ -448,7 +420,7 @@ Program Evaluation and Review Technique (PERT) has four major timing areas:
 * float or slack
 
 
-<h3><a name="raid">RAID</a></h2>
+### RAID</a>
 
 RAID means:
 
@@ -461,7 +433,7 @@ RAID means:
 * Dependencies
 
 
-<h3><a name="application-architecture-matrix">Application architecture matrix</a></h2>
+### Application architecture matrix</a>
 
 Application architecture matrix ideas to consider:
 
@@ -475,15 +447,15 @@ Application architecture matrix ideas to consider:
 
 
 
-<h2>See also</h2>
+## See also
 
 
-<h3><a name="current-future">Current state vs. future state</a></h2>
+### Current state vs. future state
 
 The exercise idea: assess the current state of the organizations/groups/individuals, and compare that to the desired future state.
 
 
-<h3><a name="wordbook">Wordbook of terminology</a></h2>
+### Wordbook of terminology
 
 * [5 Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html)
 
