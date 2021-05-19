@@ -27,20 +27,20 @@ Contents:
   * [TEAM interpersonal aims](#team-interpersonal-aims)
   * [FOCUS analytical aims](#focus-analytical-aims)
 * [Process](#process)
-  * [TOGAF management</a>](#togaf-management-a)
-  * [Domain Driven Design</a>](#domain-driven-design-a)
-  * [DMADV Design For Six Sigma</a>](#dmadv-design-for-six-sigma-a)
-  * [DMAIC</a>](#dmaic-a)
-  * [DDICA</a>](#ddica-a)
-  * [SIPOC</a>](#sipoc-a)
-  * [ICOM</a>](#icom-a)
+  * [TOGAF management](#togaf-management)
+  * [Domain Driven Design](#domain-driven-design)
+  * [DMADV Design For Six Sigma](#dmadv-design-for-six-sigma)
+  * [DMAIC](#dmaic)
+  * [DDICA](#ddica)
+  * [SIPOC](#sipoc)
+  * [ICOM](#icom)
 * [Performance](#performance)
-  * [Maturity models</a>](#maturity-models-a)
-  * [Value stream mapping (VSM)</a>](#value-stream-mapping-vsm-a)
+  * [Maturity models](#maturity-models)
+  * [Value stream mapping (VSM)](#value-stream-mapping-vsm)
   * [Software quality attributes](#software-quality-attributes)
-  * [PERT: Program Evaluation and Review Technique</a>](#pert-program-evaluation-and-review-technique-a)
-  * [RAID</a>](#raid-a)
-  * [Application architecture matrix</a>](#application-architecture-matrix-a)
+  * [PERT: Program Evaluation and Review Technique](#pert-program-evaluation-and-review-technique)
+  * [RAID](#raid)
+  * [Application architecture matrix](#application-architecture-matrix)
 * [See also](#see-also)
   * [Current state vs. future state](#current-state-vs-future-state)
   * [Wordbook of terminology](#wordbook-of-terminology)
@@ -171,7 +171,7 @@ Stakeholder analysis starts by gathering this information:
 
 * Relevant relationships (e.g. with stakeholders, projects, organizaitons)
 
-* Relevant analysis (e.g. <a href="https://github.com/joelparkerhenderson/strategic_business_scorecard">SBS</a>, <a href="https://github.com/joelparkerhenderson/objectives_and_key_results">OKR</a>, <a href="https://github.com/joelparkerhenderson/key_performance_indicator">KPI</a>, <a href="https://github.com/joelparkerhenderson/value_stream_mapping">VSM</a>, <a href="https://github.com/joelparkerhenderson/smart_criteria">SMART</a>, SWOT, PEST, RAID)
+* Relevant analysis (e.g. [SBS](https://github.com/joelparkerhenderson/strategic_business_scorecard), [OKR](https://github.com/joelparkerhenderson/objectives_and_key_results), [KPI](https://github.com/joelparkerhenderson/key_performance_indicator), [VSM](https://github.com/joelparkerhenderson/value_stream_mapping), [SMART](https://github.com/joelparkerhenderson/smart_criteria), SWOT, PEST, RAID)
 
 See https://github.com/joelparkerhenderson/stakeholder_analysis
 
@@ -259,7 +259,7 @@ See https://github.com/joelparkerhenderson/team_focus
 ## Process
 
 
-### TOGAF management</a>
+### TOGAF management
 
 TOGAF management capabilities list:
 
@@ -284,7 +284,7 @@ TOGAF management capabilities list:
 * Environment Management
 
 
-### Domain Driven Design</a>
+### Domain Driven Design
 
 Domain Driven Design links:
 
@@ -293,7 +293,7 @@ Domain Driven Design links:
 * [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
 
 
-### DMADV Design For Six Sigma</a>
+### DMADV Design For Six Sigma
 
 DMADV project methodology is known as Design For Six Sigma (DFSS) and features 5 phases:
 
@@ -308,7 +308,7 @@ DMADV project methodology is known as Design For Six Sigma (DFSS) and features 5
 * Verify the design, set up pilot runs, implement the production process and hand it over to the process owner(s).
 
 
-### DMAIC</a>
+### DMAIC
 
 DMAIC stands for:
 
@@ -324,7 +324,7 @@ DMAIC stands for:
 * Control
 
 
-### DDICA</a>
+### DDICA
 
 DDICA stands for:
 
@@ -339,7 +339,7 @@ DDICA stands for:
 * Allocate
 
 
-### SIPOC</a>
+### SIPOC
 
 SIPOC stands for:
 
@@ -354,7 +354,7 @@ SIPOC stands for:
 * Customer
 
 
-### ICOM</a>
+### ICOM
 
 ICOM stands for:
 
@@ -370,7 +370,7 @@ ICOM stands for:
 ## Performance
 
 
-### Maturity models</a>
+### Maturity models
 
 Maturity models typically have these kinds of levels:
 
@@ -389,7 +389,7 @@ Maturity models typically have these kinds of levels:
 See https://github.com/joelparkerhenderson/maturity_models
 
 
-### Value stream mapping (VSM)</a>
+### Value stream mapping (VSM)
 
 Value Stream Mapping (VSM) starts with three major categories:
 
@@ -407,7 +407,7 @@ See https://github.com/joelparkerhenderson/value_stream_mapping
 Software quality attributes:
 
 
-### PERT: Program Evaluation and Review Technique</a>
+### PERT: Program Evaluation and Review Technique
 
 Program Evaluation and Review Technique (PERT) has four major timing areas:
 
@@ -420,7 +420,7 @@ Program Evaluation and Review Technique (PERT) has four major timing areas:
 * float or slack
 
 
-### RAID</a>
+### RAID
 
 RAID means:
 
@@ -433,7 +433,7 @@ RAID means:
 * Dependencies
 
 
-### Application architecture matrix</a>
+### Application architecture matrix
 
 Application architecture matrix ideas to consider:
 
